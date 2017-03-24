@@ -1,0 +1,85 @@
+﻿빌드 시작: 2017-03-24 오전 11:26:35
+     1>2 노드의 "C:\Users\ymkang\2017GradPBM\2017GradPBM\2017GradPBM\Ex\Ex01_BouncingBall\Ex01_BouncingBall\Ex01_BouncingBall.vcxproj" 프로젝트(build 대상)입니다.
+     1>PrepareForBuild:
+         "C:\Users\ymkang\2017GradPBM\2017GradPBM\2017GradPBM\Ex\Ex01_BouncingBall\Release\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\Ex01_BouncingBall.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt KangGL.cpp main.cpp
+         KangGL.cpp
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(32): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(32): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(32): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(54): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(54): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(55): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(55): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(56): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(56): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(57): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(57): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(64): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(64): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(65): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(65): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(66): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(66): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(67): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(67): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(72): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(72): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(73): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(73): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(74): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(74): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(75): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(75): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>KangGL.cpp(133): warning C4244: '+=' : 'double'에서 'LONGLONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>KangGL.cpp(194): warning C4244: '초기화 중' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         main.cpp
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(32): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(32): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(32): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(54): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(54): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(55): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(55): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(56): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(56): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(57): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(57): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(64): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(64): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(65): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(65): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(66): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(66): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(67): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(67): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(72): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(72): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(73): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(73): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(74): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(74): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(75): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\ymkang\2017gradpbm\2017gradpbm\2017gradpbm\ex\ex01_bouncingball\ex01_bouncingball\KangGL.h(75): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main.cpp(12): warning C4305: '인수' : 'double'에서 'float'(으)로 잘립니다.
+     1>main.cpp(31): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>main.cpp(31): warning C4244: '인수' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ymkang\2017GradPBM\2017GradPBM\2017GradPBM\Ex\Ex01_BouncingBall\Release\Ex01_BouncingBall.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Ex01_BouncingBall.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ymkang\2017GradPBM\2017GradPBM\2017GradPBM\Ex\Ex01_BouncingBall\Release\Ex01_BouncingBall.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ymkang\2017GradPBM\2017GradPBM\2017GradPBM\Ex\Ex01_BouncingBall\Release\Ex01_BouncingBall.lib" /MACHINE:X86 Release\KangGL.obj
+         Release\main.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         Ex01_BouncingBall.vcxproj -> C:\Users\ymkang\2017GradPBM\2017GradPBM\2017GradPBM\Ex\Ex01_BouncingBall\Release\Ex01_BouncingBall.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ymkang\2017GradPBM\2017GradPBM\2017GradPBM\Ex\Ex01_BouncingBall\Release\Ex01_BouncingBall.exe;#1" /manifest Release\Ex01_BouncingBall.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Release\Ex01_BouncingBall.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\Ex01_BouncingBall.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\ymkang\2017GradPBM\2017GradPBM\2017GradPBM\Ex\Ex01_BouncingBall\Ex01_BouncingBall\Ex01_BouncingBall.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.95
